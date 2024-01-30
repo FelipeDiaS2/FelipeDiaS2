@@ -8,6 +8,7 @@ Sou um desenvolvedor de games apaixonado, atualmente estudante e buscando oportu
 
 Tenho habilidades em diversas áreas do desenvolvimento de jogos e estou constantemente aprimorando meu conhecimento e experiência em busca de criar jogos incríveis!
 
+Estou atualmente no 5º Semestre de Jogos Digitais na FATEC Carapicuíba.
 
 ## Contato
 
