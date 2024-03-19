@@ -4,7 +4,7 @@
 # Bem vindo!
 ## Me chamo Felipe Dias! 
 
-Sou um desenvolvedor de games apaixonado, atualmente estudante e buscando oportunidades para iniciar minha carreira na indústria. 
+Sou um desenvolvedor de games apaixonado, atualmente estudante e trabalhando com desenvolvimento de software. 
 
 Tenho habilidades em diversas áreas do desenvolvimento de jogos e estou constantemente aprimorando meu conhecimento e experiência em busca de criar jogos incríveis!
 
