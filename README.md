@@ -4,11 +4,11 @@
 # Bem vindo!
 ## Me chamo Felipe Dias! 
 
-Sou um desenvolvedor de games apaixonado, atualmente estudante e trabalhando com desenvolvimento de software. 
+Sou um desenvolvedor apaixonado, atualmente estudante e trabalhando com desenvolvimento de software. 
 
-Tenho habilidades em diversas áreas do desenvolvimento de jogos e estou constantemente aprimorando meu conhecimento e experiência em busca de criar jogos incríveis!
+Tenho habilidades em diversas áreas do desenvolvimento de software e jogos, estou constantemente aprimorando meu conhecimento e experiência!
 
-Estou atualmente no 5º Semestre de Jogos Digitais na FATEC Carapicuíba.
+Estou atualmente no 6º Semestre de Jogos Digitais na FATEC Carapicuíba.
 
 ## Contato
 
