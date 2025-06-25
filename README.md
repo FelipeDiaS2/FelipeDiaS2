@@ -5,11 +5,7 @@
 
 <p>Me chamo Felipe Dias!</p>
 
-<p>Sou um desenvolvedor apaixonado, atualmente estudante e trabalhando com desenvolvimento de software.</p>
-
-<p>Tenho habilidades em diversas áreas do desenvolvimento de software e jogos, estou constantemente aprimorando meu conhecimento e experiência!</p>
-
-<p>Estou atualmente no 6º Semestre de Jogos Digitais na FATEC Carapicuíba.</p>
+<p>Sou um desenvolvedor apaixonado, atualmente trabalhando com desenvolvimento de software.</p>
 
 ### Contato
 
@@ -25,16 +21,15 @@
     </a>
 </p>
 
-### Hard Skills
+### Tecnologias
 
 <p>
-    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
-    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=purple&color=purple" alt="C#">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+    <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 
 
 <p>Obrigado por visitar!! 😁</p>
